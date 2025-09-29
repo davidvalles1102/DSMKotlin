@@ -29,13 +29,16 @@ Nuestro proyecto esta hecho en consola usando **Kotlin**, que simula una tienda 
 
 Para ejecutar este proyecto, necesitas tener instalado Kotlin. Puedes compilar y ejecutar con:
 
+##  Imagenes
+
+![WhatsApp Image 2025-09-21 at 2 35 35 PM](https://github.com/user-attachments/assets/1bbf258b-933c-47a8-9ee0-f286ade6c1d9)
+
+
 ```bash
 kotlinc Main.kt -include-runtime -d Tienda.jar
-java -jar Tienda.jar
+java -jar Tienda.jar 
 
 
-##  Imagenes
-   ![Descripción de la imagen]![WhatsApp Image 2025-09-21 at 2 35 35 PM](https://github.com/user-attachments/assets/1bbf258b-933c-47a8-9ee0-f286ade6c1d9)
 
 
 
