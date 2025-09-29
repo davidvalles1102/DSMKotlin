@@ -33,10 +33,11 @@ Para ejecutar este proyecto, necesitas tener instalado Kotlin. Puedes compilar y
 kotlinc Main.kt -include-runtime -d Tienda.jar
 java -jar Tienda.jar
 
-#
+#![WhatsApp Image 2025-09-21 at 2 35 35 PM](https://github.com/user-attachments/assets/3f23bf21-21b1-42b0-bf10-95e62b24bd49)
 
 
 
-![b120c7da-777d-497d-99aa-2d2a48c7ac09](https://github.com/user-attachments/assets/f4a38b8b-b071-4079-a755-e98680359520)
+
+
 
 
