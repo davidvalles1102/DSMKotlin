@@ -1,0 +1,30 @@
+sept 21, 2025 2:26:03 P. M. Carrito agregarProducto
+INFO: 3x Cocina agregado al carrito.
+sept 21, 2025 2:26:24 P. M. Carrito eliminarProducto
+INFO: Se eliminó 1 unidad de Cocina del carrito.
+sept 21, 2025 2:26:39 P. M. Carrito mostrarCarrito
+INFO: Carrito mostrado: 2 artículos, total USD 40.00
+sept 21, 2025 2:26:53 P. M. Carrito agregarProducto
+INFO: 3x Laptop agregado al carrito.
+sept 21, 2025 2:27:01 P. M. Carrito mostrarCarrito
+INFO: Carrito mostrado: 5 artículos, total USD 2,440.00
+sept 21, 2025 2:27:24 P. M. Carrito mostrarCarrito
+INFO: Carrito mostrado: 5 artículos, total USD 2,440.00
+sept 21, 2025 2:28:52 P. M. Carrito agregarProducto
+WARNING: No hay suficiente stock de Televisor. Disponible: 10
+sept 21, 2025 2:29:13 P. M. Carrito agregarProducto
+WARNING: No hay suficiente stock de Cocina. Disponible: 10
+sept 21, 2025 2:31:30 P. M. Carrito agregarProducto
+INFO: 3x Comedor agregado al carrito.
+sept 21, 2025 2:31:53 P. M. Carrito eliminarProducto
+INFO: Se eliminó 1 unidad de Comedor del carrito.
+sept 21, 2025 2:32:08 P. M. Carrito mostrarCarrito
+INFO: Carrito mostrado: 2 artículos, total USD 300.00
+sept 21, 2025 2:32:46 P. M. Carrito mostrarCarrito
+INFO: Carrito mostrado: 2 artículos, total USD 300.00
+sept 21, 2025 2:34:47 P. M. Carrito mostrarCarrito
+INFO: Carrito mostrado: 2 artículos, total USD 300.00
+sept 21, 2025 2:35:01 P. M. Carrito agregarProducto
+INFO: 6x Plancha agregado al carrito.
+sept 21, 2025 2:35:11 P. M. Carrito mostrarCarrito
+INFO: Carrito mostrado: 8 artículos, total USD 390.00
