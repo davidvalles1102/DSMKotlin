@@ -33,6 +33,15 @@ Para ejecutar este proyecto, necesitas tener instalado Kotlin. Puedes compilar y
 
 ![WhatsApp Image 2025-09-21 at 2 35 35 PM](https://github.com/user-attachments/assets/1bbf258b-933c-47a8-9ee0-f286ade6c1d9)
 
+![WhatsApp Image 2025-09-21 at 2 30 31 PM](https://github.com/user-attachments/assets/718c4bd6-045d-43f7-9c7d-898e779fef07)
+![WhatsApp Image 2025-09-21 at 2 31 34 PM](https://github.com/user-attachments/assets/93f9cbb6-63e9-41f0-b89a-633eefc15b4c)
+![WhatsApp Image 2025-09-21 at 2 32 05 PM](https://github.com/user-attachments/assets/e10bfcad-ca57-41ae-b94f-f5f2011aa5c1)
+![WhatsApp Image 2025-09-21 at 2 32 36 PM](https://github.com/user-attachments/assets/da0ca03b-8a4b-48de-aff3-ad3cc2a7d45d)
+![WhatsApp Image 2025-09-21 at 2 33 02 PM](https://github.com/user-attachments/assets/b8fae110-55dd-4eb2-a8d5-f7925bd60530)
+![WhatsApp Image 2025-09-21 at 2 33 18 PM](https://github.com/user-attachments/assets/07505292-3c5b-42a9-88e8-2b6d41b09d2c)
+![WhatsApp Image 2025-09-21 at 2 36 07 PM](https://github.com/user-attachments/assets/666b570f-0723-4724-a4e1-87f60399d51e)
+
+
 
 ```bash
 kotlinc Main.kt -include-runtime -d Tienda.jar
