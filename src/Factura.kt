@@ -21,7 +21,6 @@ class Factura {
             total += subtotal
         }
 
-
         println("-".repeat(50))
         println("💰 TOTAL A PAGAR: ${"%.2f".format(total)} USD")
         println("✨".repeat(40))
