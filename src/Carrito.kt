@@ -18,14 +18,14 @@ import java.text.DecimalFormat
             fun agregarProducto(producto: Producto, cantidad: Int) {
                 if (cantidad > producto.cantidadDisponible) {
                     val msg = "No hay suficiente stock de ${producto.nombre}. Disponible: ${producto.cantidadDisponible}"
-                    println("⚠️ $msg")
+                    println("$msg")
                     logger.warning(msg)
                     return
                 }
                 productosEnCarrito[producto] = productosEnCarrito.getOrDefault(producto, 0) + cantidad
                 producto.cantidadDisponible -= cantidad
                 val msg = "${cantidad}x ${producto.nombre} agregado al carrito."
-                println("✅ $msg")
+                println("$msg")
                 logger.info(msg)
             }
 
@@ -35,7 +35,7 @@ import java.text.DecimalFormat
                     if (cantidadActual > 1) {
                         productosEnCarrito[producto] = cantidadActual - 1
                         val msg = "Se eliminó 1 unidad de ${producto.nombre} del carrito."
-                        println("✅ $msg")
+                        println("$msg")
                         logger.info(msg)
                     } else {
                         productosEnCarrito.remove(producto)
@@ -46,14 +46,14 @@ import java.text.DecimalFormat
                     producto.cantidadDisponible += 1
                 } else {
                     val msg = "El producto no está en el carrito."
-                    println("⚠️ $msg")
+                    println("$msg")
                     logger.warning(msg)
                 }
             }
 
             fun mostrarCarrito() {
                 if (productosEnCarrito.isEmpty()) {
-                    println("🧺 El carrito está vacío.")
+                    println("El carrito está vacío.")
                     logger.info("El carrito está vacío.")
                     return
                 }
@@ -110,8 +110,8 @@ import java.text.DecimalFormat
                 }
 
                 println(line('└','┴','┘','─'))
-                println("📦 Artículos: $totalItems")
-                println("💰 Total: USD ${df.format(total)}")
+                println("Artículos: $totalItems")
+                println("Total: USD ${df.format(total)}")
                 logger.info("Carrito mostrado: $totalItems artículos, total USD ${df.format(total)}")
             }
 
