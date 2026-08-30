@@ -6,6 +6,7 @@ class Factura {
             println("\n⚠️  El carrito está vacío, no hay productos para facturar.\n🛒 ¡Agrega productos para continuar con tu compra!")
             return
         }
+
         println("\n" + "✨".repeat(40))
         println("          🧾 FACTURA DE COMPRA 🧾          ")
         println("✨".repeat(40))
